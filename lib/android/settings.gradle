@@ -1,8 +1,0 @@
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-include ':app'
-rootProject.name = "tiktok_smart_cache"
